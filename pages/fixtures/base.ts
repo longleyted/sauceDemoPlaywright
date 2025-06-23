@@ -15,11 +15,6 @@ export const test = base.extend<commonFixtures>({
         await use(loginPage)
     },
 
-    productsPage: async({page},use)=>{
-        const productsPage = new ProductsPage(page)
-        await use(productsPage)
-    },
-
 
 
 
