@@ -1,4 +1,6 @@
 {
     "workers": 1, 
-    "baseUrl": "https://www.saucedemo.com/"
+    "baseUrl": "http://3.8.242.61",
+    "email": "#EMAIL",
+    "password": "#PASSWORD"
 }
